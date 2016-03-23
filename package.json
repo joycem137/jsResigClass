@@ -1,7 +1,8 @@
 {
   "name": "jsResigClass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Java-style class system built by John Resig",
+  "repository": "git://github.com/joycem137/jsResigClass.git",
   "main": "index.js",
   "author": "John Resig",
   "license": "MIT"
